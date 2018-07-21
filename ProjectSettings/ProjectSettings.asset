@@ -228,7 +228,7 @@ PlayerSettings:
   AndroidTargetDevice: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: D:/Project/Skripsi/Organ dalam/Virtual reality/VR Sistem Pencernaan/Key.keystore
+  AndroidKeystoreName: D:/Project/Skripsi/Organ dalam/Virtual reality/VR_Organ_Pencernaan/Key.keystore
   AndroidKeyaliasName: key
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
