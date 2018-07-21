@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 71262c7b5815432489fd450ea0fcc916
+timeCreated: 1526715706
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Akar.Lidah
+    100002: Akar.Lidah.001
+    100004: Akar.Lidah.001_end
+    100006: Akar.Lidah.002
+    100008: Akar.Lidah.002_end
+    100010: Akar.Lidah_end
+    100012: Arma.Hati
+    100014: Camera.Hati
+    100016: //RootNode
+    100018: Hati.Ori
+    100020: Info.Hati
+    100022: Kembali.Hati
+    100024: Kotak.Control.Hati
+    100026: Kotak.Hati
+    100028: Kotak.Hati.Belakang
+    100030: Kotak.Hati.Belakang.Atas
+    100032: Kotak.Hati.Belakang.Bawah
+    100034: Kotak.Hati.Belakang.R
+    100036: Kotak.Hati.Depan.Atas
+    100038: Kotak.Hati.Depan.Bawah
+    100040: Kotak.Hati.Depan.R
+    100042: Kotak.Hati.Tengah.Atas.L
+    100044: Kotak.Hati.Tengah.Atas.R
+    100046: Kotak.Hati.Tengah.Bawah.L
+    100048: Kotak.Hati.Tengah.Bawah.R
+    100050: Kotak.Hati.Tengah.Kaki.L
+    100052: Kotak.Hati.Tengah.L
+    100054: Kotak.Hati.Tengah.R
+    100056: Lamp
+    100058: Papan.Hati
+    100060: Tombol.Hati
+    400000: Akar.Lidah
+    400002: Akar.Lidah.001
+    400004: Akar.Lidah.001_end
+    400006: Akar.Lidah.002
+    400008: Akar.Lidah.002_end
+    400010: Akar.Lidah_end
+    400012: Arma.Hati
+    400014: Camera.Hati
+    400016: //RootNode
+    400018: Hati.Ori
+    400020: Info.Hati
+    400022: Kembali.Hati
+    400024: Kotak.Control.Hati
+    400026: Kotak.Hati
+    400028: Kotak.Hati.Belakang
+    400030: Kotak.Hati.Belakang.Atas
+    400032: Kotak.Hati.Belakang.Bawah
+    400034: Kotak.Hati.Belakang.R
+    400036: Kotak.Hati.Depan.Atas
+    400038: Kotak.Hati.Depan.Bawah
+    400040: Kotak.Hati.Depan.R
+    400042: Kotak.Hati.Tengah.Atas.L
+    400044: Kotak.Hati.Tengah.Atas.R
+    400046: Kotak.Hati.Tengah.Bawah.L
+    400048: Kotak.Hati.Tengah.Bawah.R
+    400050: Kotak.Hati.Tengah.Kaki.L
+    400052: Kotak.Hati.Tengah.L
+    400054: Kotak.Hati.Tengah.R
+    400056: Lamp
+    400058: Papan.Hati
+    400060: Tombol.Hati
+    2000000: Camera.Hati
+    2300000: Info.Hati
+    2300002: Kembali.Hati
+    2300004: Kotak.Hati
+    2300006: Kotak.Hati.Belakang
+    2300008: Kotak.Hati.Belakang.Atas
+    2300010: Kotak.Hati.Belakang.Bawah
+    2300012: Kotak.Hati.Belakang.R
+    2300014: Kotak.Hati.Depan.Atas
+    2300016: Kotak.Hati.Depan.Bawah
+    2300018: Kotak.Hati.Depan.R
+    2300020: Kotak.Hati.Tengah.Atas.L
+    2300022: Kotak.Hati.Tengah.Atas.R
+    2300024: Kotak.Hati.Tengah.Bawah.L
+    2300026: Kotak.Hati.Tengah.Bawah.R
+    2300028: Kotak.Hati.Tengah.Kaki.L
+    2300030: Kotak.Hati.Tengah.L
+    2300032: Kotak.Hati.Tengah.R
+    2300034: Papan.Hati
+    2300036: Tombol.Hati
+    3300000: Info.Hati
+    3300002: Kembali.Hati
+    3300004: Kotak.Hati
+    3300006: Kotak.Hati.Belakang
+    3300008: Kotak.Hati.Belakang.Atas
+    3300010: Kotak.Hati.Belakang.Bawah
+    3300012: Kotak.Hati.Belakang.R
+    3300014: Kotak.Hati.Depan.Atas
+    3300016: Kotak.Hati.Depan.Bawah
+    3300018: Kotak.Hati.Depan.R
+    3300020: Kotak.Hati.Tengah.Atas.L
+    3300022: Kotak.Hati.Tengah.Atas.R
+    3300024: Kotak.Hati.Tengah.Bawah.L
+    3300026: Kotak.Hati.Tengah.Bawah.R
+    3300028: Kotak.Hati.Tengah.Kaki.L
+    3300030: Kotak.Hati.Tengah.L
+    3300032: Kotak.Hati.Tengah.R
+    3300034: Papan.Hati
+    3300036: Tombol.Hati
+    4300000: Hati.Ori
+    4300002: Papan.Hati
+    4300004: Tombol.Hati
+    4300006: Info.Hati
+    4300008: Kembali.Hati
+    4300010: Kotak.Hati.Tengah.Atas.R
+    4300012: Kotak.Hati.Tengah.R
+    4300014: Kotak.Hati.Tengah.Atas.L
+    4300016: Kotak.Hati.Tengah.L
+    4300018: Kotak.Hati.Tengah.Kaki.L
+    4300020: Kotak.Hati.Tengah.Bawah.R
+    4300022: Kotak.Hati.Belakang.R
+    4300024: Kotak.Hati.Depan.R
+    4300026: Kotak.Hati.Belakang.Atas
+    4300028: Kotak.Hati.Depan.Atas
+    4300030: Kotak.Hati.Belakang.Bawah
+    4300032: Kotak.Hati.Tengah.Bawah.L
+    4300034: Kotak.Hati.Depan.Bawah
+    4300036: Kotak.Hati.Belakang
+    4300038: Kotak.Hati
+    7400000: Arma.Hati|Arma.HatiAction
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Hati.Ori
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

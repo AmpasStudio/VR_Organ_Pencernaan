@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: d0e5513af8a6d434c95fd7fc6a3d0e29
+timeCreated: 1526718229
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Akar.Pankreas
+    100002: Akar.Pankreas.001
+    100004: Akar.Pankreas.001_end
+    100006: Akar.Pankreas.002
+    100008: Akar.Pankreas.002_end
+    100010: Akar.Pankreas.003
+    100012: Akar.Pankreas.003_end
+    100014: Akar.Pankreas_end
+    100016: Arma.Pankreas
+    100018: Camera.Pankreas
+    100020: Info.Pankreas
+    100022: Kembali.Pankreas
+    100024: Kotak.Control.Pankreas
+    100026: Kotak.Pankreas
+    100028: Kotak.Pankreas.Atas
+    100030: Kotak.Pankreas.Belakang.Atas
+    100032: Kotak.Pankreas.Belakang.Bawah
+    100034: Kotak.Pankreas.Tengah
+    100036: Kotak.Pankreas.Tengah.Atas
+    100038: Kotak.Pankreas.Tengah.Atas.L
+    100040: Kotak.Pankreas.Tengah.Bawah.R
+    100042: Kotak.Pankreas.Tengah.Kaki.L
+    100044: Kotak.Pankreas.Tengah.R
+    100046: Lamp
+    100048: //RootNode
+    100050: Pankreas
+    100052: Pankreas.Kelenjar
+    100054: Papan.Pankreas
+    100056: Tombol.Pankreas
+    400000: Akar.Pankreas
+    400002: Akar.Pankreas.001
+    400004: Akar.Pankreas.001_end
+    400006: Akar.Pankreas.002
+    400008: Akar.Pankreas.002_end
+    400010: Akar.Pankreas.003
+    400012: Akar.Pankreas.003_end
+    400014: Akar.Pankreas_end
+    400016: Arma.Pankreas
+    400018: Camera.Pankreas
+    400020: Info.Pankreas
+    400022: Kembali.Pankreas
+    400024: Kotak.Control.Pankreas
+    400026: Kotak.Pankreas
+    400028: Kotak.Pankreas.Atas
+    400030: Kotak.Pankreas.Belakang.Atas
+    400032: Kotak.Pankreas.Belakang.Bawah
+    400034: Kotak.Pankreas.Tengah
+    400036: Kotak.Pankreas.Tengah.Atas
+    400038: Kotak.Pankreas.Tengah.Atas.L
+    400040: Kotak.Pankreas.Tengah.Bawah.R
+    400042: Kotak.Pankreas.Tengah.Kaki.L
+    400044: Kotak.Pankreas.Tengah.R
+    400046: Lamp
+    400048: Pankreas
+    400050: //RootNode
+    400052: Pankreas.Kelenjar
+    400054: Papan.Pankreas
+    400056: Tombol.Pankreas
+    2000000: Camera.Pankreas
+    2300000: Info.Pankreas
+    2300002: Kembali.Pankreas
+    2300004: Kotak.Pankreas
+    2300006: Kotak.Pankreas.Atas
+    2300008: Kotak.Pankreas.Belakang.Atas
+    2300010: Kotak.Pankreas.Belakang.Bawah
+    2300012: Kotak.Pankreas.Tengah
+    2300014: Kotak.Pankreas.Tengah.Atas
+    2300016: Kotak.Pankreas.Tengah.Atas.L
+    2300018: Kotak.Pankreas.Tengah.Bawah.R
+    2300020: Kotak.Pankreas.Tengah.Kaki.L
+    2300022: Kotak.Pankreas.Tengah.R
+    2300024: Pankreas.Kelenjar
+    2300026: Papan.Pankreas
+    2300028: Tombol.Pankreas
+    3300000: Info.Pankreas
+    3300002: Kembali.Pankreas
+    3300004: Kotak.Pankreas
+    3300006: Kotak.Pankreas.Atas
+    3300008: Kotak.Pankreas.Belakang.Atas
+    3300010: Kotak.Pankreas.Belakang.Bawah
+    3300012: Kotak.Pankreas.Tengah
+    3300014: Kotak.Pankreas.Tengah.Atas
+    3300016: Kotak.Pankreas.Tengah.Atas.L
+    3300018: Kotak.Pankreas.Tengah.Bawah.R
+    3300020: Kotak.Pankreas.Tengah.Kaki.L
+    3300022: Kotak.Pankreas.Tengah.R
+    3300024: Pankreas.Kelenjar
+    3300026: Papan.Pankreas
+    3300028: Tombol.Pankreas
+    4300000: Pankreas
+    4300002: Pankreas.Kelenjar
+    4300004: Kotak.Pankreas.Belakang.Bawah
+    4300006: Kotak.Pankreas.Belakang.Atas
+    4300008: Kotak.Pankreas.Tengah.Bawah.R
+    4300010: Kotak.Pankreas.Tengah.R
+    4300012: Kotak.Pankreas.Tengah.Atas.L
+    4300014: Kotak.Pankreas.Tengah.Kaki.L
+    4300016: Kotak.Pankreas.Tengah
+    4300018: Kotak.Pankreas.Tengah.Atas
+    4300020: Kotak.Pankreas.Atas
+    4300022: Kotak.Pankreas
+    4300024: Kembali.Pankreas
+    4300026: Tombol.Pankreas
+    4300028: Info.Pankreas
+    4300030: Papan.Pankreas
+    7400000: Arma.Pankreas|Arma.PankreasAction
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Pankreas
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

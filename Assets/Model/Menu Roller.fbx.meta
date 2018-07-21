@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 568073e606df702429bc3e727db1a3ba
+timeCreated: 1527061192
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Kembali.Menu
+    100002: //RootNode
+    100004: Panah.Kanan.Menu
+    100006: Panah.Kanan.Menu 1
+    100008: Panah.Kanan.Menu_end
+    100010: Panah.Kiri
+    100012: Panah.Kiri.Menu
+    100014: Panah.Kiri.Menu_end
+    100016: Panah1.Menu
+    100018: Panah2.Menu
+    100020: Papan.Arrange
+    100022: Papan.Scatter
+    400000: Kembali.Menu
+    400002: //RootNode
+    400004: Panah.Kanan.Menu
+    400006: Panah.Kanan.Menu 1
+    400008: Panah.Kanan.Menu_end
+    400010: Panah.Kiri
+    400012: Panah.Kiri.Menu
+    400014: Panah.Kiri.Menu_end
+    400016: Panah1.Menu
+    400018: Panah2.Menu
+    400020: Papan.Arrange
+    400022: Papan.Scatter
+    2300000: Kembali.Menu
+    2300002: Panah1.Menu
+    2300004: Panah2.Menu
+    2300006: Papan.Arrange
+    2300008: Papan.Scatter
+    3300000: Kembali.Menu
+    3300002: Panah1.Menu
+    3300004: Panah2.Menu
+    3300006: Papan.Arrange
+    3300008: Papan.Scatter
+    4300000: Papan.Arrange
+    4300002: Papan.Scatter
+    4300004: Panah1.Menu
+    4300006: Panah2.Menu
+    4300008: Kembali.Menu
+    7400000: Panah.Kanan.Menu|Panah.Kanan.Menu
+    7400002: Panah.Kiri|Panah.Kiri.Menu
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

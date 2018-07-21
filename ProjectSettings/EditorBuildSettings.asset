@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/VRsystem.unity
+    guid: b58549dea99ccfc48baf945b475c99dc
+  - enabled: 1
+    path: Assets/Scene/Main Menu.unity
+    guid: 99b80e4f0d3d1cb4daeb393df07d97ee
+  - enabled: 1
+    path: Assets/Scene/Menu Roller.unity
+    guid: 29559df3db6e8184388965582cbf2678
+  - enabled: 1
+    path: Assets/Scene/Roller Explorer.unity
+    guid: 1cae7bf0eb35cde45b31755bc5bc1572
+  - enabled: 1
+    path: Assets/Scene/Roller VR.unity
+    guid: dcf8b95e39d9e3f47a6dc96c7cdfd223
+  - enabled: 1
+    path: Assets/Scene/Explorer.Organ.unity
+    guid: 1d39583e69d5e384180a148c60ef442f
+  - enabled: 0
+    path: Assets/Scene/Roller VR_bac.unity
+    guid: fbfeacf6bacd4ab4fb74f1e9142a4f8b
+  - enabled: 1
+    path: Assets/Scene/RonggaMulutv2.unity
+    guid: ee37a265b7f9aa34f84534a08c482a4f
+  - enabled: 1
+    path: Assets/Scene/Lambung.unity
+    guid: bf3e524ed09127a43bf794c5d9251f54
+  - enabled: 1
+    path: Assets/Scene/Laring.unity
+    guid: e88b14f0df4caa24f8ceab55557cb637
+  - enabled: 1
+    path: Assets/Scene/Hati.unity
+    guid: 3d6c92eadcce3714d9858180a7fed0b8
+  - enabled: 1
+    path: Assets/Scene/KantungEmpedu.unity
+    guid: ffbf035a2de7aff459a719e10c3c9819
+  - enabled: 1
+    path: Assets/Scene/pankreas.unity
+    guid: 61022a396e70a164bae2c710cdb5e8bb
+  - enabled: 1
+    path: Assets/Scene/UsusHalus.unity
+    guid: 6167374ebfca31045acc39f3faaac184
+  - enabled: 1
+    path: Assets/Scene/UsusBesar.unity
+    guid: 1f391d76f429fcf44a29e316a63ee46c
+  - enabled: 0
+    path: 
+    guid: 6c8619ead1d21184dbb4262e508258a4
+  - enabled: 0
+    path: 
+    guid: 48a64d60a54a2d34e9c03b5d66c793a8

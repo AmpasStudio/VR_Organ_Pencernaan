@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 3ea51e9c5f815f54a967448c51bd9ec1
+timeCreated: 1526629929
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Kembali
+    100002: //RootNode
+    100004: Roller
+    100006: Roller.BezierCurve
+    100008: Roller.Camera
+    100010: Roller.Hati
+    100012: Roller.KantongEmpedu
+    100014: Roller.Kepala
+    100016: Roller.Kereta
+    100018: Roller.Kuping
+    100020: Roller.Lambung.P
+    100022: Roller.Lamp
+    100024: Roller.Pankreas.P
+    100026: Roller.Papan.Hati
+    100028: Roller.Papan.KantongEmpedu
+    100030: Roller.Papan.Lambung
+    100032: Roller.Papan.Laring
+    100034: Roller.Papan.Pankreas
+    100036: Roller.Papan.RonggaMulut
+    100038: Roller.Papan.UsusBesar
+    100040: Roller.Papan.UsusHalus
+    100042: Roller.RonggaMulut.P
+    100044: Roller.Sun
+    100046: Roller.UsusBesar.Ikat.P
+    100048: Roller.UsusBesar.P
+    100050: Roller.UsusBesar.P_MeshPart0
+    100052: Roller.UsusBesar.P_MeshPart1
+    100054: Roller.UsusHalus.P
+    100056: Roller.UsusHalus.P_MeshPart0
+    100058: Roller.UsusHalus.P_MeshPart1
+    400000: Kembali
+    400002: //RootNode
+    400004: Roller
+    400006: Roller.BezierCurve
+    400008: Roller.Camera
+    400010: Roller.Hati
+    400012: Roller.KantongEmpedu
+    400014: Roller.Kepala
+    400016: Roller.Kereta
+    400018: Roller.Kuping
+    400020: Roller.Lambung.P
+    400022: Roller.Lamp
+    400024: Roller.Pankreas.P
+    400026: Roller.Papan.Hati
+    400028: Roller.Papan.KantongEmpedu
+    400030: Roller.Papan.Lambung
+    400032: Roller.Papan.Laring
+    400034: Roller.Papan.Pankreas
+    400036: Roller.Papan.RonggaMulut
+    400038: Roller.Papan.UsusBesar
+    400040: Roller.Papan.UsusHalus
+    400042: Roller.RonggaMulut.P
+    400044: Roller.Sun
+    400046: Roller.UsusBesar.Ikat.P
+    400048: Roller.UsusBesar.P
+    400050: Roller.UsusBesar.P_MeshPart0
+    400052: Roller.UsusBesar.P_MeshPart1
+    400054: Roller.UsusHalus.P
+    400056: Roller.UsusHalus.P_MeshPart0
+    400058: Roller.UsusHalus.P_MeshPart1
+    2000000: Roller.Camera
+    2300000: Kembali
+    2300002: Roller
+    2300004: Roller.BezierCurve
+    2300006: Roller.Hati
+    2300008: Roller.KantongEmpedu
+    2300010: Roller.Kepala
+    2300012: Roller.Kereta
+    2300014: Roller.Kuping
+    2300016: Roller.Lambung.P
+    2300018: Roller.Pankreas.P
+    2300020: Roller.Papan.Hati
+    2300022: Roller.Papan.KantongEmpedu
+    2300024: Roller.Papan.Lambung
+    2300026: Roller.Papan.Laring
+    2300028: Roller.Papan.Pankreas
+    2300030: Roller.Papan.RonggaMulut
+    2300032: Roller.Papan.UsusBesar
+    2300034: Roller.Papan.UsusHalus
+    2300036: Roller.RonggaMulut.P
+    2300038: Roller.UsusBesar.Ikat.P
+    2300040: Roller.UsusBesar.P_MeshPart0
+    2300042: Roller.UsusBesar.P_MeshPart1
+    2300044: Roller.UsusHalus.P_MeshPart0
+    2300046: Roller.UsusHalus.P_MeshPart1
+    3300000: Kembali
+    3300002: Roller
+    3300004: Roller.BezierCurve
+    3300006: Roller.Hati
+    3300008: Roller.KantongEmpedu
+    3300010: Roller.Kepala
+    3300012: Roller.Kereta
+    3300014: Roller.Kuping
+    3300016: Roller.Lambung.P
+    3300018: Roller.Pankreas.P
+    3300020: Roller.Papan.Hati
+    3300022: Roller.Papan.KantongEmpedu
+    3300024: Roller.Papan.Lambung
+    3300026: Roller.Papan.Laring
+    3300028: Roller.Papan.Pankreas
+    3300030: Roller.Papan.RonggaMulut
+    3300032: Roller.Papan.UsusBesar
+    3300034: Roller.Papan.UsusHalus
+    3300036: Roller.RonggaMulut.P
+    3300038: Roller.UsusBesar.Ikat.P
+    3300040: Roller.UsusBesar.P_MeshPart0
+    3300042: Roller.UsusBesar.P_MeshPart1
+    3300044: Roller.UsusHalus.P_MeshPart0
+    3300046: Roller.UsusHalus.P_MeshPart1
+    4300000: Roller.BezierCurve
+    4300002: Roller.Kereta
+    4300004: Roller
+    4300006: Roller.Kepala
+    4300008: Roller.Kuping
+    4300010: Roller.RonggaMulut.P
+    4300012: Roller.Papan.Laring
+    4300014: Roller.Papan.RonggaMulut
+    4300016: Roller.UsusBesar.P_MeshPart0
+    4300018: Roller.UsusBesar.P_MeshPart1
+    4300020: Roller.Papan.UsusBesar
+    4300022: Roller.UsusBesar.Ikat.P
+    4300024: Roller.UsusHalus.P_MeshPart0
+    4300026: Roller.UsusHalus.P_MeshPart1
+    4300028: Roller.Papan.UsusHalus
+    4300030: Roller.Pankreas.P
+    4300032: Roller.Papan.Pankreas
+    4300034: Roller.KantongEmpedu
+    4300036: Roller.Papan.KantongEmpedu
+    4300038: Roller.Hati
+    4300040: Roller.Papan.Hati
+    4300042: Roller.Lambung.P
+    4300044: Roller.Papan.Lambung
+    4300046: Kembali
+    7400000: Roller.Kereta|RC.1.RonggaMulut
+    7400002: Roller.Kereta|RC.2.Laring
+    7400004: Roller.Kereta|RC.3.Lambung
+    7400006: Roller.Kereta|RC.4.KantungEmpedu
+    7400008: Roller.Kereta|RC.5.Hati
+    7400010: Roller.Kereta|RC.6.Pankreas
+    7400012: Roller.Kereta|RC.7.UsusHalus
+    7400014: Roller.Kereta|RC.8.UsusBesar
+    7400016: Roller.Kereta|RC.9.TheEnd
+    7400018: Roller.Kereta|Roller.KeretaAction
+    9500000: //RootNode
+    10800000: Roller.Lamp
+    10800002: Roller.Sun
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

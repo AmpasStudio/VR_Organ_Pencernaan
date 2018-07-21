@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: cb8104154f1c10c41a7feec65c57847c
+timeCreated: 1523609099
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Judul
+    100002: //RootNode
+    100004: Panah.Kanan
+    100006: Panah.Kanan 1
+    100008: Panah.Kanan_end
+    100010: Panah1
+    100012: Papan.Explorer
+    100014: Papan.RollerCoaster
+    100016: Plane
+    400000: Judul
+    400002: //RootNode
+    400004: Panah.Kanan
+    400006: Panah.Kanan 1
+    400008: Panah.Kanan_end
+    400010: Panah1
+    400012: Papan.Explorer
+    400014: Papan.RollerCoaster
+    400016: Plane
+    2300000: Judul
+    2300002: Panah1
+    2300004: Papan.Explorer
+    2300006: Papan.RollerCoaster
+    2300008: Plane
+    3300000: Judul
+    3300002: Panah1
+    3300004: Papan.Explorer
+    3300006: Papan.RollerCoaster
+    3300008: Plane
+    4300000: Judul
+    4300002: Papan.Explorer
+    4300004: Papan.RollerCoaster
+    4300006: Panah1
+    4300008: Plane
+    7400000: Panah.Kanan|Panah.Kanan
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
